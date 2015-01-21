@@ -27,4 +27,4 @@ app.controller('MainCtrl', function ($scope, myService) {
 // 	};
 // });
 	
-// });
+});
